@@ -1,0 +1,80 @@
+.header {
+  height: 50px;
+  display: flex;
+}
+.home {
+  margin-left: 300px;
+  margin-top: 17px;
+  font-size: 20px;
+  color: white;
+  text-decoration-thickness: 5px;
+}
+.feat {
+  margin-left: 10px;
+  margin-top: 17px;
+  font-size: 20px;
+  color: rgb(82, 75, 75);
+  text-decoration: none;
+}
+.cont {
+  margin-left: 10px;
+  margin-top: 17px;
+  font-size: 20px;
+  color: rgb(82, 75, 75);
+  text-decoration: none;
+}
+p {
+  margin-left: 400px;
+  font-size: 25px;
+  color: white;
+  margin-top: 15px;
+}
+
+.feat2 {
+  margin-left: 10px;
+  margin-top: 17px;
+  font-size: 20px;
+}
+.cont2 {
+  margin-left: 10px;
+  margin-top: 17px;
+  font-size: 20px;
+}
+
+.home2 {
+  margin-left: 300px;
+  margin-top: 17px;
+  font-size: 20px;
+  color: white;
+  text-decoration-color: rgb(82, 75, 75);
+  text-decoration-thickness: 5px;
+}
+.feat2 {
+  margin-left: 10px;
+  margin-top: 17px;
+  font-size: 20px;
+  color: rgb(82, 75, 75);
+  text-decoration-color: rgb(82, 75, 75);
+  text-decoration-thickness: 5px;
+}
+.cont2 {
+  margin-left: 10px;
+  margin-top: 17px;
+  font-size: 20px;
+  color: rgb(82, 75, 75);
+  text-decoration-color: rgb(82, 75, 75);
+  text-decoration-thickness: 5px;
+}
+.footer {
+  color: rgb(112, 106, 106);
+  margin-top: 50px;
+
+  height: 30px;
+  text-align: center;
+}
+.bootstrap {
+  color: white;
+}
+.mdo {
+  color: white;
+}
